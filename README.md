@@ -1,6 +1,6 @@
 # txpress
 
-**txpress** is a command-line tool designed for rapid JavaScript development using the **Bun** runtime. It simplifies the setup and execution of JavaScript projects.
+**txpress** is a command-line tool to scaffold typescript express project
 
 ## Installation
 
