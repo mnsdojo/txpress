@@ -1,7 +1,11 @@
 {
   "name": "txpress",
+  "version": "1.0.0",
   "module": "index.ts",
   "type": "module",
+  "repository": {
+    "url": "https://github.com/mnsdojo/txpress"
+  },
   "bin": {
     "txpress": "./index.ts"
   },
