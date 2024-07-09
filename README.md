@@ -1,15 +1,14 @@
 # txpress
 
-To install dependencies:
+**txpress** is a command-line tool designed for rapid JavaScript development using the **Bun** runtime. It simplifies the setup and execution of JavaScript projects.
+
+## Installation
+
+You can install **txpress** globally using npm:
 
 ```bash
-bun install
-```
+npm install -g txpress
 
-To run:
 
 ```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.17. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+npx txpress
