@@ -6,9 +6,6 @@
 
 You can install **txpress** globally using npm:
 
-```bash
-npm install -g txpress
-
 
 ```bash
-npx txpress
+npx @manishxdev/txpress
